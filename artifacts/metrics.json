@@ -1,0 +1,16 @@
+{
+  "dataset_train_size": 18369,
+  "dataset_test_size": 2296,
+  "tfidf": {
+    "accuracy": 0.6638,
+    "macro_f1": 0.6176,
+    "train_sec": 1.01,
+    "latency_ms": 0.035
+  },
+  "minilm": {
+    "accuracy": 0.6551,
+    "macro_f1": 0.6199,
+    "train_sec": 78.2,
+    "latency_ms": 3.609
+  }
+}
